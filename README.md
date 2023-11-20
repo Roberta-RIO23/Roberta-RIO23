@@ -3,7 +3,7 @@ Olá, sejam bem vindos! Fiquem a vontade!👋
 Sou iniciante no universo da programação, mas já amo!💜 
 
 🏠 Moradora da Cidade Maravilhosa, 31 anos. </p>
-📚 Atualmente estou esturando Phyton, Power BI e R</p>
+📚 Atualmente estou esturando Phyton e Power BI</p>
 👯 Estou procurando colaborar com projetos que me tragam conhecimento e experiência, network</p>
 💻 Procuro aumentar meu conhecimento em análises e resolução de problemas</p>
 ⚡ Curiosidade: Amo gatos😺  e Café ☕.</p>
